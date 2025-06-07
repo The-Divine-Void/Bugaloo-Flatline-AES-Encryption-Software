@@ -7,4 +7,8 @@ anyone can edit this and add to it please include me idc whos name is on this be
 there are some dependencies u must install or import idk what its called lol
 they will throw errors when u try to run this so just install what it says is missing 
 
+also there WAS a P2P peer to peer service part of this code gpt gave me but i couldnt get it to work on my home network from the laptop to the rasp pi so idk much about networking for setting up the ssh from person to person
+but i wanna test it with someone else.
+
+
 --sacred G
