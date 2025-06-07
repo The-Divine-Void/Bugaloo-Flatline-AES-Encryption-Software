@@ -4,4 +4,7 @@ it totally defeats the purpose of encryption if u cant highlight the text and se
 also for some reason my autohotkeys script i installed on my laptop isnt outputing the same alphabet i think becuz i might not have all the alphabets installed on pc
 anyone can edit this and add to it please include me idc whos name is on this becuz AI wrote this im really smart but dont know how to code but im slowly learning...
 
+there are some dependencies u must install or import idk what its called lol
+they will throw errors when u try to run this so just install what it says is missing 
+
 --sacred G
